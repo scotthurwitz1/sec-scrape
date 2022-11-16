@@ -1,6 +1,5 @@
 Summary:
 Web scraping presentation visualizing data from thousands of reports in the SEC database.
-Utilized machine learning on price data from thousands of stocks to make price predictions.
 
 Details:
 - Created an automated data scraping and preprocessing tool, collected and cleaned up unstructured data from hundreds of sources
